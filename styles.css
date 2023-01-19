@@ -1,0 +1,18 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+    font-size: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.grid {
+    display: grid;
+    width: 500px;
+    height: 500px;
+}
